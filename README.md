@@ -8,4 +8,4 @@ sizePolicy.setHorizontalStretch(0)
 sizePolicy.setVerticalStretch(0)
 MainWindow.setSizePolicy(sizePolicy)
 ```
-![Policies](https://github.com/brent-stone/PySide6/images/Horizontal_Vertical_Policies.PNG?raw=true)
+![Policies](https://github.com/brent-stone/PySide6/blob/main/images/Horizontal_Vertical_Policies.PNG?raw=true)
